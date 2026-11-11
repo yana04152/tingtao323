@@ -1,0 +1,690 @@
+{
+  "cities": [
+    {
+      "id": "huainan",
+      "name": "淮南",
+      "province": "安徽",
+      "x": 358,
+      "y": 259,
+      "dx": -53,
+      "dy": -12
+    },
+    {
+      "id": "beijing",
+      "name": "北京",
+      "province": "北京",
+      "x": 344,
+      "y": 140,
+      "dx": 15,
+      "dy": -10
+    },
+    {
+      "id": "xian",
+      "name": "西安",
+      "province": "陕西",
+      "x": 196,
+      "y": 226,
+      "dx": -33,
+      "dy": -14
+    },
+    {
+      "id": "harbin",
+      "name": "哈尔滨",
+      "province": "黑龙江",
+      "x": 502,
+      "y": 55,
+      "dx": -24,
+      "dy": -20
+    },
+    {
+      "id": "shenzhen",
+      "name": "深圳",
+      "province": "广东",
+      "x": 316,
+      "y": 420,
+      "dx": 16,
+      "dy": 10
+    },
+    {
+      "id": "shanghai",
+      "name": "上海",
+      "province": "上海",
+      "x": 499,
+      "y": 283,
+      "dx": 14,
+      "dy": -2
+    },
+    {
+      "id": "chengdu",
+      "name": "成都",
+      "province": "四川",
+      "x": 92,
+      "y": 291,
+      "dx": -32,
+      "dy": -14
+    },
+    {
+      "id": "nanjing",
+      "name": "南京",
+      "province": "江苏",
+      "x": 420,
+      "y": 270,
+      "dx": 14,
+      "dy": -26
+    },
+    {
+      "id": "changsha",
+      "name": "长沙",
+      "province": "湖南",
+      "x": 302,
+      "y": 331,
+      "dx": -40,
+      "dy": 5
+    },
+    {
+      "id": "putian",
+      "name": "莆田",
+      "province": "福建",
+      "x": 420,
+      "y": 370,
+      "dx": 15,
+      "dy": 9
+    },
+    {
+      "id": "chuzhou",
+      "name": "滁州",
+      "province": "安徽",
+      "x": 389,
+      "y": 273,
+      "dx": -29,
+      "dy": 30
+    },
+    {
+      "id": "hangzhou",
+      "name": "杭州",
+      "province": "浙江",
+      "x": 457,
+      "y": 315,
+      "dx": 20,
+      "dy": 15
+    },
+    {
+      "id": "chongqing",
+      "name": "重庆",
+      "province": "重庆",
+      "x": 166,
+      "y": 316,
+      "dx": 14,
+      "dy": 23
+    }
+  ],
+  "locations": [
+    {
+      "id": "huainan-origin-1968",
+      "city": "huainan",
+      "momentId": "1968",
+      "year": 1968,
+      "date": "1968年起",
+      "title": "从淮南出发",
+      "kind": "hometown",
+      "evidence": "新京报本人专访正文明确出生地为安徽省淮南市；央视人物资料提供1968年的出生年份。",
+      "note": "家乡及成长关系，不是一次出行；不标家庭住址。",
+      "venue": "",
+      "sourceIds": [
+        "r4-bjnews2018",
+        "bio"
+      ]
+    },
+    {
+      "id": "beijing-study-1986",
+      "city": "beijing",
+      "momentId": "1986",
+      "year": 1986,
+      "date": "1986—1990年",
+      "title": "在北京广播学院学习播音",
+      "kind": "education",
+      "evidence": "求学资料及母校70周年晚会报道均指向北京广播学院1986级；本人回顾在北京读大学四年。",
+      "note": "以就读阶段显示，不把四年拆成多次到访。",
+      "venue": "北京广播学院（今中国传媒大学）",
+      "sourceIds": [
+        "school",
+        "cuc2024",
+        "early"
+      ]
+    },
+    {
+      "id": "beijing-first-work-1990",
+      "city": "beijing",
+      "momentId": "1990",
+      "year": 1990,
+      "date": "1990年毕业后",
+      "title": "毕业后留京工作",
+      "kind": "work-base",
+      "evidence": "毕业后先进入北京的工作单位，之后转入北京电视台；央视《幕后》和中国妇女网本人报道相互补充。",
+      "note": "这是公开职业经历中的工作城市，不记具体办公或居住地址。",
+      "venue": "",
+      "sourceIds": [
+        "grad",
+        "early",
+        "r4-women2018"
+      ]
+    },
+    {
+      "id": "beijing-btv-early-1990s",
+      "city": "beijing",
+      "momentId": "btv",
+      "year": 1990,
+      "date": "1990年代初—1995年",
+      "title": "北京电视台：新闻播报与栏目主持",
+      "kind": "work-base",
+      "evidence": "公开人物资料明确在北京电视台任职，并承担《北京新闻》等节目。",
+      "note": "入职年份在公开资料中有1992与1993两种说法；year=1990仅作“1990年代初”的排序锚点，不是确定入职年。",
+      "venue": "北京电视台",
+      "sourceIds": [
+        "award",
+        "early",
+        "r4-bjnews2018"
+      ]
+    },
+    {
+      "id": "beijing-cctv-1995",
+      "city": "beijing",
+      "momentId": "1995",
+      "year": 1995,
+      "date": "1995年起",
+      "title": "进入央视《综艺大观》",
+      "kind": "work-base",
+      "evidence": "央视资料记载1995年进入中央电视台文艺部主持《综艺大观》，本人回忆初次节目录制后返回北京播出。",
+      "note": "北京为工作基地，不据此断言节目每一期都在北京录制。",
+      "venue": "中央电视台",
+      "sourceIds": [
+        "award",
+        "early"
+      ]
+    },
+    {
+      "id": "xian-spring-gala-1996",
+      "city": "xian",
+      "momentId": "1996",
+      "year": 1996,
+      "date": "1996年除夕",
+      "title": "第一次主持央视春晚：西安会场",
+      "kind": "event",
+      "evidence": "央视历届主持名单把张晓、周涛列在1996年西安会场，和北京、上海会场分别标注。",
+      "note": "保留届次与除夕，不以补档上传日代替演出日期。",
+      "venue": "央视春晚西安会场",
+      "sourceIds": [
+        "r4-xian1996"
+      ]
+    },
+    {
+      "id": "harbin-summer-host-1996",
+      "city": "harbin",
+      "momentId": "1996-harbin",
+      "year": 1996,
+      "date": "1996年",
+      "title": "第23届哈尔滨之夏音乐会开幕式",
+      "kind": "event",
+      "evidence": "哈尔滨新闻网2023年回顾明确她主持1996年第23届哈夏开幕式；音乐会历史大事记交叉确认1996届次。",
+      "note": "活动年份依据哈尔滨新闻网回顾，未补具体演出日或个人抵离日期。",
+      "venue": "",
+      "sourceIds": [
+        "r4-harbin-history",
+        "r4-harbin-history-date"
+      ]
+    },
+    {
+      "id": "beijing-national-gala-1999",
+      "city": "beijing",
+      "momentId": "1999-national",
+      "year": 1999,
+      "date": "1999年",
+      "title": "国庆50周年天安门广场焰火晚会",
+      "kind": "event",
+      "evidence": "央视人物资料明确列出天安门广场国庆50周年焰火晚会主持工作；本人专访回顾该庆典经历。",
+      "note": "不是上午阅兵的解说记录，未推定具体机位。",
+      "venue": "天安门广场",
+      "sourceIds": [
+        "award",
+        "starlight2003self"
+      ]
+    },
+    {
+      "id": "beijing-olympic-bid-2001",
+      "city": "beijing",
+      "momentId": "2001-bid",
+      "year": 2001,
+      "date": "2001年7月13日",
+      "title": "在中华世纪坛迎接申奥成功",
+      "kind": "event",
+      "evidence": "2005年本人采访明确回忆申奥成功当夜身在世纪坛并参与“7·13”直播；组织者回忆提供活动上下文。",
+      "note": "",
+      "venue": "中华世纪坛",
+      "sourceIds": [
+        "olympicself",
+        "bid2001"
+      ]
+    },
+    {
+      "id": "beijing-olympic-emblem-2003",
+      "city": "beijing",
+      "momentId": "2003-emblem",
+      "year": 2003,
+      "date": "2003年8月3日",
+      "title": "参与北京奥运会徽揭晓活动",
+      "kind": "event",
+      "evidence": "本人访谈确认参与奥运会徽“中国印”揭晓相关节目；中国奥委会同期报道将活动定位于8月3日北京天坛祈年殿。",
+      "note": "记录其晚会/电视主持参与，不将她写成正式揭晓仪式各行政环节的主持人。",
+      "venue": "天坛祈年殿",
+      "sourceIds": [
+        "olympicself",
+        "olympic2003emblem",
+        "starlight2003self"
+      ]
+    },
+    {
+      "id": "beijing-olympic-work-2005",
+      "city": "beijing",
+      "momentId": "2005",
+      "year": 2005,
+      "date": "2005年起",
+      "title": "进入北京奥组委，参与奥运筹备",
+      "kind": "work-base",
+      "evidence": "2005年同期报道确认赴北京奥组委新闻中心工作，本人专访解释其文化活动职责。",
+      "note": "岗位关系依当时报道，既不等同外出旅行，也不推定后续每一天的所在城市。",
+      "venue": "北京奥组委",
+      "sourceIds": [
+        "olympicjob",
+        "olympicself"
+      ]
+    },
+    {
+      "id": "huainan-torch-2008",
+      "city": "huainan",
+      "momentId": "2008-torch",
+      "year": 2008,
+      "date": "2008年5月29日",
+      "title": "回到淮南担任奥运火炬首棒火炬手",
+      "kind": "event",
+      "evidence": "央视当日报道周涛担任北京奥运火炬淮南站首棒火炬手。",
+      "note": "",
+      "venue": "",
+      "sourceIds": [
+        "torch2008"
+      ]
+    },
+    {
+      "id": "beijing-olympic-commentary-2008",
+      "city": "beijing",
+      "momentId": "2008",
+      "year": 2008,
+      "date": "2008年8月8日",
+      "title": "为北京奥运开幕式作电视解说",
+      "kind": "event",
+      "evidence": "同期报道确认与孙正平搭档解说；演播室报道和后来本人采访明确工作现场位于鸟巢。",
+      "note": "电视转播解说，区别于开幕式仪式现场主持。",
+      "venue": "国家体育场（鸟巢）电视转播工作区",
+      "sourceIds": [
+        "olympic",
+        "olympic2008booth",
+        "r4-bjnews2018"
+      ]
+    },
+    {
+      "id": "shenzhen-olympic-lecture-2008",
+      "city": "shenzhen",
+      "momentId": "2008-olympic-lecture",
+      "year": 2008,
+      "date": "2008年（录像题名标9月28日）",
+      "title": "深圳市民文化大讲堂：《亲历奥运》",
+      "kind": "event",
+      "evidence": "出版社2008年度深圳市民文化大讲堂书目列周涛为该年度讲者；长篇录像及原上传说明对应《亲历奥运》。",
+      "note": "城市与2008年度有出版社交叉支持；9月28日及五楼报告厅尚仅见原上传题名/简介，因此不填精确dateStart。2016-05-21是上传日。",
+      "venue": "深圳图书馆（具体场地据录像原简介）",
+      "sourceIds": [
+        "olympic2008-pishu",
+        "r4-shenzhen-video"
+      ]
+    },
+    {
+      "id": "beijing-artists-concert-2009",
+      "city": "beijing",
+      "momentId": "2009-national-concert",
+      "year": 2009,
+      "date": "2009年8月2日",
+      "title": "《我和我的祖国》著名艺术家演唱会",
+      "kind": "event",
+      "evidence": "中国文艺网报道8月2日晚在国家大剧院举行演唱会，并明确赵忠祥、周涛担任主持。",
+      "note": "网页路径含2011，但正文原报道时间为2009-08-03，不以迁移路径重新定年。",
+      "venue": "国家大剧院",
+      "sourceIds": [
+        "concert2009national"
+      ]
+    },
+    {
+      "id": "shanghai-cica-2014",
+      "city": "shanghai",
+      "momentId": "2014",
+      "year": 2014,
+      "date": "2014年5月20日",
+      "title": "亚信峰会文艺晚会",
+      "kind": "event",
+      "evidence": "现场报道指明上海大剧院并记录周涛开场；上海音乐学院演出记录交叉确认5月20日。",
+      "note": "报道由泉州媒体发布且涉及泉州节目，活动城市仍是上海。",
+      "venue": "上海大剧院",
+      "sourceIds": [
+        "cica2014",
+        "cica2014b"
+      ]
+    },
+    {
+      "id": "beijing-bpa-2016",
+      "city": "beijing",
+      "momentId": "2016-bpa",
+      "year": 2016,
+      "date": "2016年11月公开报道",
+      "title": "调入北京演艺集团",
+      "kind": "work-base",
+      "evidence": "人民网当月报道调入北京演艺集团担任首席演出官，后续本人专访回顾这一工作转变。",
+      "note": "11月为消息公开月份，不擅自确定劳动关系生效日或声称持续任职至今。",
+      "venue": "北京演艺集团",
+      "sourceIds": [
+        "bpa",
+        "r4-women2018"
+      ]
+    },
+    {
+      "id": "beijing-olympic-music-2017",
+      "city": "beijing",
+      "momentId": "2017",
+      "year": 2017,
+      "date": "2017年6月9日开幕",
+      "title": "奥林匹克公园夏季音乐季",
+      "kind": "event",
+      "evidence": "开幕后报道确认6月9日在北京奥林匹克公园举行首场演出；周涛任总导演并承担主持工作。",
+      "note": "系列音乐季持续多日；此处用首场日期，不拆分为多次旅行。",
+      "venue": "奥林匹克公园",
+      "sourceIds": [
+        "musicheld",
+        "r4-music2017-city"
+      ]
+    },
+    {
+      "id": "chengdu-lecture-2017",
+      "city": "chengdu",
+      "momentId": "2017-chengdu-talk",
+      "year": 2017,
+      "date": "2017年6月24日",
+      "title": "经典名家讲座：遇见更好的自己",
+      "kind": "event",
+      "evidence": "华西都市报记者现场报道6月24日15时周涛在成都的经典名家讲座，记录其离开央视后的本人表达。",
+      "note": "",
+      "venue": "经典名家讲座活动现场",
+      "sourceIds": [
+        "chengdu2017-report"
+      ]
+    },
+    {
+      "id": "nanjing-loveletters-2018",
+      "city": "nanjing",
+      "momentId": "2018",
+      "year": 2018,
+      "date": "2018年4月25—26日",
+      "title": "话剧《情书》南京演出",
+      "kind": "event",
+      "evidence": "扬子晚报的事后采访明确4月25、26日晚在南京保利大剧院上演《情书》，周涛饰路佳佳。",
+      "note": "",
+      "venue": "南京保利大剧院",
+      "sourceIds": [
+        "r4-nanjing2018"
+      ]
+    },
+    {
+      "id": "changsha-loveletters-2018",
+      "city": "changsha",
+      "momentId": "2018",
+      "year": 2018,
+      "date": "2018年，8月15日前",
+      "title": "话剧《情书》长沙巡演",
+      "kind": "event",
+      "evidence": "2018年8月15日新京报本人专访回顾《情书》已在南京、长沙等16个城市巡演；长沙是明确列出的已完成城市。",
+      "note": "报道未给长沙场次日期和场馆；不把8月15日这个刊发日当演出日，也不据16城总数补造其他城市。",
+      "venue": "",
+      "sourceIds": [
+        "r4-bjnews2018"
+      ]
+    },
+    {
+      "id": "beijing-loveletters-2018",
+      "city": "beijing",
+      "momentId": "2018",
+      "year": 2018,
+      "date": "2018年8月19日（已核记者观演场次）",
+      "title": "《情书》北京演出",
+      "kind": "event",
+      "evidence": "中国妇女网采访正文记下记者8月19日晚在北京保利剧院观看周涛主演《情书》，属已发生演出的现场记述。",
+      "note": "网页路径含2020，正文时间和采访语境为2018年；仅以已明确的记者观演场次记录。",
+      "venue": "北京保利剧院",
+      "sourceIds": [
+        "r4-women2018"
+      ]
+    },
+    {
+      "id": "putian-forum-2018",
+      "city": "putian",
+      "momentId": "2018-buddhist-forum",
+      "year": 2018,
+      "date": "2018年10月29日",
+      "title": "第五届世界佛教论坛开幕活动",
+      "kind": "event",
+      "evidence": "福建省民宗厅转载的次日报道定位论坛在莆田开幕，现场图片文字明确周涛与胡一虎主持；本人专访补充总导演身份。",
+      "note": "这里是公开文化活动工作，不据此推断个人宗教信仰。",
+      "venue": "",
+      "sourceIds": [
+        "r2-buddhist2018held",
+        "r2-director2019"
+      ]
+    },
+    {
+      "id": "beijing-ncpa-guide-2020",
+      "city": "beijing",
+      "momentId": "2020-ncpa-guide",
+      "year": 2020,
+      "date": "2020年5月2日",
+      "title": "国家大剧院《春天的拥抱》线上音乐会导赏",
+      "kind": "event",
+      "evidence": "国家大剧院来源的官方报道记载5月2日晚周涛带观众云游剧院并作为现场导赏者参与音乐会。",
+      "note": "线上播出不等于本人远程参与，报道明确其在剧院现场。",
+      "venue": "国家大剧院",
+      "sourceIds": [
+        "r2-ncpa2020official"
+      ]
+    },
+    {
+      "id": "beijing-loveletters-2020",
+      "city": "beijing",
+      "momentId": "2020-letter",
+      "year": 2020,
+      "date": "2020年8月8—9日",
+      "title": "《情书》复演及《后台》探班访谈",
+      "kind": "event",
+      "evidence": "北京青年报记载8月8日复演，记者在8月9日第二场前探班；交叉报道明确为北京保利剧院。",
+      "note": "",
+      "venue": "北京保利剧院",
+      "sourceIds": [
+        "letter2020",
+        "r4-letter2020-city"
+      ]
+    },
+    {
+      "id": "beijing-poly-visit-2022",
+      "city": "beijing",
+      "momentId": "2021",
+      "year": 2022,
+      "date": "2022年1月13日",
+      "title": "以保利文化艺术总监身份参加人民网交流活动",
+      "kind": "event",
+      "evidence": "保利文化官网点名周涛作为艺术总监同行，记述实地参观人民日报社社史馆、人民网融媒体指挥中心并座谈。",
+      "note": "活动日期为1月13日，官网刊发日为1月15日；仅说明当时职务。北京据实际机构场所归档，不由报道电头推定。",
+      "venue": "人民日报社、人民网",
+      "sourceIds": [
+        "polyofficial"
+      ]
+    },
+    {
+      "id": "chuzhou-anhui-games-2022",
+      "city": "chuzhou",
+      "momentId": "2022-anhui",
+      "year": 2022,
+      "date": "2022年11月系列活动",
+      "title": "安徽省运动会等开闭幕式系列",
+      "kind": "event",
+      "evidence": "保利文化项目总结列出11月1日、8日、16日、26日四场活动，明确滁州/滁州市奥体中心，并记载周涛带队实地走访采风。",
+      "note": "日期范围是项目活动安排，不是连续驻留或四次独立出行；不据总导演署名推断每场全程在场。",
+      "venue": "滁州（部分场次明确为滁州市奥体中心）",
+      "sourceIds": [
+        "anhui2022"
+      ]
+    },
+    {
+      "id": "hangzhou-xibo-2023",
+      "city": "hangzhou",
+      "momentId": "2023-xibo",
+      "year": 2023,
+      "date": "2023年6月11日",
+      "title": "世界休闲博览会暨杭州西湖国际博览会开幕式",
+      "kind": "event",
+      "evidence": "杭州官方新闻确认6月11日开幕；可观看的当场主持片段及原题核对周涛参与，素材年份与新闻一致。",
+      "note": "B站为个人补档，2025-07-20是上传日；未把上传地点或账号地域作为杭州依据。",
+      "venue": "",
+      "sourceIds": [
+        "r2-xibo2023date",
+        "r4-hangzhou-video"
+      ]
+    },
+    {
+      "id": "harbin-summer-director-2023",
+      "city": "harbin",
+      "momentId": "2023-harbin-director",
+      "year": 2023,
+      "date": "2023年8月5日采访；8月6日开幕",
+      "title": "第36届哈夏：导演工作与现场采访",
+      "kind": "event",
+      "evidence": "黑龙江新闻网明确8月5日在哈尔滨大剧院采访周涛；省政府及哈尔滨新闻网确认开幕为8月6日，并列其总导演身份。",
+      "note": "8月5日是现场采访日，不是第36届音乐会的正式开幕日。",
+      "venue": "哈尔滨大剧院",
+      "sourceIds": [
+        "r2-harbin2023self",
+        "r4-harbin2023-opening",
+        "r4-harbin-history"
+      ]
+    },
+    {
+      "id": "beijing-cuc-anniversary-2024",
+      "city": "beijing",
+      "momentId": "2024-cuc",
+      "year": 2024,
+      "date": "2024年9月26日",
+      "title": "中国传媒大学70周年文艺晚会",
+      "kind": "event",
+      "evidence": "学校官方报道明确晚会9月26日举行，并列1986级校友周涛为接力讲述人。",
+      "note": "角色为讲述人；不笼统改成全场主持。活动日和9月29日发布日分开。",
+      "venue": "中国传媒大学",
+      "sourceIds": [
+        "cuc2024"
+      ]
+    },
+    {
+      "id": "beijing-baihua-2025",
+      "city": "beijing",
+      "momentId": "2025-baihua",
+      "year": 2025,
+      "date": "2025年1月11日",
+      "title": "百花迎春——中国文学艺术界大联欢",
+      "kind": "event",
+      "evidence": "中国文艺网官方预告明确大联欢已于1月11日在北京成功举办，主持阵容包括周涛。",
+      "note": "1月29日为电视播出日期，不作为北京活动日。",
+      "venue": "",
+      "sourceIds": [
+        "baihua2025"
+      ]
+    },
+    {
+      "id": "beijing-harbin-press-2025",
+      "city": "beijing",
+      "momentId": "2025",
+      "year": 2025,
+      "date": "2025年6月18日",
+      "title": "文化和旅游部哈夏新闻发布会",
+      "kind": "event",
+      "evidence": "文化和旅游部官方实录列出周涛并保留其现场答问；北京日报记述此次在京发布会。",
+      "note": "发布会在北京，不能因为发布主题是“哈夏”就定位到哈尔滨。",
+      "venue": "文化和旅游部新闻发布会现场",
+      "sourceIds": [
+        "r4-mct2025",
+        "r4-mct2025-city"
+      ]
+    },
+    {
+      "id": "harbin-summer-director-2025",
+      "city": "harbin",
+      "momentId": "2025",
+      "year": 2025,
+      "date": "2025年6月27日开幕",
+      "title": "第37届哈尔滨之夏音乐会",
+      "kind": "event",
+      "evidence": "省文旅厅事后报道确认6月27日哈尔滨大剧院歌剧厅开幕及周涛总导演身份；本地电视台专访记其筹备工作与多次实地到访。",
+      "note": "6月18日是北京发布会，6月26日是采访刊发，6月27日才是开幕；不把自述多次到访拆成无日期的旅行记录。",
+      "venue": "哈尔滨大剧院歌剧厅",
+      "sourceIds": [
+        "r4-harbin2025-opening",
+        "harbin"
+      ]
+    },
+    {
+      "id": "harbin-night-musical-2025",
+      "city": "harbin",
+      "momentId": "2025-night-harbin",
+      "year": 2025,
+      "date": "2025年7月3日发布会；前期多次采风",
+      "title": "原创音乐剧《夜幕下的哈尔滨》",
+      "kind": "event",
+      "evidence": "新晚报7月4日记录她在前一日新闻发布会介绍项目，并明确带队深入哈尔滨实地采风。",
+      "note": "哈尔滨本人实地采风有证据；全国巡演城市不因此全部算作她到访，具体采风日未披露。",
+      "venue": "",
+      "sourceIds": [
+        "night2025self"
+      ]
+    },
+    {
+      "id": "chongqing-taohuawu-2026",
+      "city": "chongqing",
+      "momentId": "2026-taohuawu",
+      "year": 2026,
+      "date": "2026年5月16日发布会；录制期为2026年",
+      "title": "《五十公里桃花坞6》发布会与节目实践",
+      "kind": "event",
+      "evidence": "红星新闻现场报道明确5月16日晚发布会在重庆举行，周涛本人发言；并指节目在重庆老旧厂区录制。",
+      "note": "精确日期只用于发布会；录制的逐日日期未披露，不取微博IP属地或上传日代替。",
+      "venue": "",
+      "sourceIds": [
+        "taohuawu2026self"
+      ]
+    },
+    {
+      "id": "beijing-harvest-recitation-2026",
+      "city": "beijing",
+      "momentId": "2026",
+      "year": 2026,
+      "date": "2026年10月10—11日",
+      "title": "交响合唱音乐会《丰收中国》",
+      "kind": "event",
+      "evidence": "北京日报演出报道明确10月10日至11日在国家大剧院音乐厅上演，记录周涛的现场诵读。",
+      "note": "",
+      "venue": "国家大剧院音乐厅",
+      "sourceIds": [
+        "harvestheld"
+      ]
+    }
+  ]
+}

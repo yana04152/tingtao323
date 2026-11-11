@@ -1,0 +1,1136 @@
+{
+  "sources": [
+    {
+      "id": "cctv-web-history",
+      "publisher": "央视网",
+      "title": "CCTV.com 网络大事记",
+      "date": "未标注（含 2002 年条目）",
+      "url": "https://www.cctv.com/service/about/about1.shtml"
+    },
+    {
+      "id": "chat2003-cctv",
+      "publisher": "央视国际",
+      "title": "我和春节联欢晚会——主持人周涛在线实录",
+      "date": "2003-02-18",
+      "url": "https://www.cctv.com/performance/20030218/100498.shtml"
+    },
+    {
+      "id": "host-ecology2005",
+      "publisher": "央视网 ·《电视你我他》",
+      "title": "主持人原生态：十年磨一剑 周涛讲述心路历程",
+      "date": "2005-06-17",
+      "url": "https://news.cctv.com/program/dsnwt_new/20050617/102213.shtml"
+    },
+    {
+      "id": "nanfang2005-olympic",
+      "publisher": "南方周末 · 央视网转载",
+      "title": "周涛：舍弃虚名去奥组委",
+      "date": "2005-06-22",
+      "url": "https://www.cctv.com/anchor/20050622/100692.shtml"
+    },
+    {
+      "id": "chat2005-cctv",
+      "publisher": "央视国际",
+      "title": "周涛在线：我希望成为你们永远的骄傲",
+      "date": "2005-07-02",
+      "url": "https://www.cctv.com/anchor/20050704/100869.shtml"
+    },
+    {
+      "id": "fangge2011",
+      "publisher": "央视网 · CCTV-3",
+      "title": "放歌九十年 庆祝中国共产党成立90周年十集电视文艺专题片",
+      "date": "2016-09-20（官网归档路径；内容属 2011 年）",
+      "url": "https://tv.cctv.com/2016/09/20/VIDAGE8vFzD3Ta5YbnQ0IwcR160920.shtml"
+    },
+    {
+      "id": "planning2013-cctv",
+      "publisher": "央视网",
+      "title": "周涛：把春晚打造成更加接地气的百姓舞台",
+      "date": "2013-11-18",
+      "url": "https://1118.cctv.com/2014/20131118/103586.shtml"
+    },
+    {
+      "id": "yilan2015-film",
+      "publisher": "央视网 · CCTV-3",
+      "title": "《艺览天下》20150827 周涛的独家推荐 那些好看的与动物有关的电影",
+      "date": "2015-08-28",
+      "url": "https://tv.cctv.com/2015/08/28/VIDE1440702360448481.shtml"
+    },
+    {
+      "id": "reading2016-cctv",
+      "publisher": "央视网",
+      "title": "[陪你读书]周涛：读书为伴 阅读一生",
+      "date": "2016-02-12",
+      "url": "https://tv.cctv.com/2016/02/12/VIDElRmJDtHzw9EG7ElESCf8160212.shtml"
+    },
+    {
+      "id": "gala-jianghu2009-sina",
+      "publisher": "新浪娱乐",
+      "title": "春晚主持：荣耀背后压力大 脑力体力双消耗",
+      "date": "2009-01-22",
+      "url": "https://ent.sina.com.cn/v/m/2009-01-22/11162353320.shtml"
+    },
+    {
+      "id": "gala-jianghu2009-news",
+      "publisher": "华商晨报 · 中国新闻网转载",
+      "title": "周涛朱军：春晚服装自备 主持稿一场一变化",
+      "date": "2009-01-22",
+      "url": "https://www.chinanews.com/yl/zyxw/news/2009/01-22/1539039.shtml"
+    },
+    {
+      "id": "national2005self",
+      "publisher": "央视网 · 本人专访",
+      "title": "周涛：付出真心 留下真情——专访第九届“中国青年五四奖章”获得者周涛",
+      "date": "2005-05-25",
+      "url": "https://www.cctv.com/anchor/20050525/102063.shtml"
+    },
+    {
+      "id": "starlight2003self",
+      "publisher": "中国电视报 · 央视网",
+      "title": "周涛：我的精彩在后面",
+      "date": "2003-09-30",
+      "url": "https://www.cctv.com/anchor/20030930/100316.shtml"
+    },
+    {
+      "id": "starlight2003live",
+      "publisher": "新浪娱乐 · 现场报道",
+      "title": "周涛喜获优秀主持人奖 入围者朱军大方表示祝贺",
+      "date": "2003-08-26",
+      "url": "https://ent.sina.com.cn/v/2003-08-26/2042191627.html"
+    },
+    {
+      "id": "starlight2003list",
+      "publisher": "新浪娱乐",
+      "title": "中国电视第16届17届星光奖获奖名单",
+      "date": "2003-08-27",
+      "url": "https://ent.sina.com.cn/v/2003-08-27/0110191699.html"
+    },
+    {
+      "id": "eagle2003",
+      "publisher": "中国文联文艺资源中心 · 转存中国政府网",
+      "title": "第21届中国电视金鹰奖报道",
+      "date": "2003-09-28",
+      "url": "https://ku.artnchina.com/news/4e/85/3bef41f622aa4d839ba6b5e95b8d0164.html"
+    },
+    {
+      "id": "hundred2002",
+      "publisher": "中国宁波网 · 新浪转载",
+      "title": "朱军汪文华陆天明金越周涛等荣获电视“百佳”(图)",
+      "date": "2002-10-19",
+      "url": "https://ent.sina.com.cn/v/2002-10-19/1133107416.html"
+    },
+    {
+      "id": "crosstalk2006",
+      "publisher": "京华时报 · 新浪转载",
+      "title": "第三届相声大赛颁奖晚会举行 马季毕福剑说相声",
+      "date": "2006-10-08",
+      "url": "https://ent.sina.com.cn/j/2006-10-08/10041274643.html"
+    },
+    {
+      "id": "crosstalk2006work",
+      "publisher": "华西都市报 · 新浪转载",
+      "title": "相声大赛鸣金收兵 马季和周涛毕福剑合说相声",
+      "date": "2006-10-08",
+      "url": "https://ent.sina.com.cn/v/m/2006-10-08/05401274437.html"
+    },
+    {
+      "id": "wenchuan2008",
+      "publisher": "华西都市报 · 新浪转载",
+      "title": "15亿元！这是爱的奉献",
+      "date": "2008-05-19",
+      "url": "https://news.sina.com.cn/o/2008-05-19/060513893852s.shtml"
+    },
+    {
+      "id": "concert2009national",
+      "publisher": "中国文艺网",
+      "title": "庆祝新中国成立60周年著名艺术家演唱会在京举行",
+      "date": "2009-08-03",
+      "url": "https://www.cflac.org.cn/wywzt/yy/cxsd/201110/t20111028_15372.htm"
+    },
+    {
+      "id": "yushu2010hosts",
+      "publisher": "中国广播网 · 新浪转载",
+      "title": "《情系玉树大爱无疆》大型赈灾晚会今晚直播",
+      "date": "2010-04-20",
+      "url": "https://finance.sina.com.cn/roll/20100420/15197789377.shtml"
+    },
+    {
+      "id": "yushu2010held",
+      "publisher": "国家广播电视总局",
+      "title": "李长春等出席“情系玉树 大爱无疆”募捐活动",
+      "date": "2010-04-21",
+      "url": "https://www.nrta.gov.cn/art/2010/4/21/art_112_13486.html"
+    },
+    {
+      "id": "riddle2014hosts",
+      "publisher": "北京日报 · 人民网转载",
+      "title": "央视推出“中国谜语大会” 全民猜谜更具娱乐气息",
+      "date": "2014-02-14",
+      "url": "https://media.people.com.cn/n/2014/0214/c40606-24356376.html"
+    },
+    {
+      "id": "riddle2014episodes",
+      "publisher": "央视网",
+      "title": "中国谜语大会（2014节目专辑）",
+      "date": "2014",
+      "url": "https://kejiao.cntv.cn/2014/01/22/VIDA1390373670157628.shtml"
+    },
+    {
+      "id": "riddle2015episodes",
+      "publisher": "央视网",
+      "title": "中国谜语大会（2015节目专辑）",
+      "date": "2015",
+      "url": "https://kejiao.cntv.cn/2015/01/28/VIDA1422424491279765.shtml"
+    },
+    {
+      "id": "riddle2015zhou",
+      "publisher": "央视网 · 央视悦动",
+      "title": "悦时尚｜央视女主播教你早春穿搭",
+      "date": "2015-03-16",
+      "url": "https://cctv.cntv.cn/2015/03/16/ARTI1426474807365927.shtml"
+    },
+    {
+      "id": "riddle2016first",
+      "publisher": "央视网",
+      "title": "《2016中国谜语大会》20160220",
+      "date": "2016-02-20",
+      "url": "https://tv.cctv.com/2016/02/20/VIDEcHQt2W9MY2ogTHnIvvNm160920.shtml"
+    },
+    {
+      "id": "crosstalk2014hosts",
+      "publisher": "法制晚报 · 中国新闻网转载",
+      "title": "周涛再登台 只因央视女主持人“太紧缺”",
+      "date": "2014-10-09",
+      "url": "https://www.chinanews.com/yl/2014/10-09/6660002.shtml"
+    },
+    {
+      "id": "crosstalk2014official",
+      "publisher": "央视网",
+      "title": "第七届全国电视相声大赛专题",
+      "date": "2014-10",
+      "url": "https://cctv.cntv.cn/special/xsds/"
+    },
+    {
+      "id": "olympic2008booth",
+      "publisher": "扬子晚报 · 新浪转载",
+      "title": "开幕式演播室的故事：周淘喊热 孙正平用手电看台词",
+      "date": "2008-08-09",
+      "url": "https://2008.sina.com.cn/hx/other/2008-08-09/0901173627.shtml"
+    },
+    {
+      "id": "olympic2008roles",
+      "publisher": "北京青年报 · 搜狐转载",
+      "title": "央视主持人奥运开闭幕式解说相关报道",
+      "date": "2008-09-22",
+      "url": "https://news.sohu.com/20080922/n259672731.shtml"
+    },
+    {
+      "id": "olympic2003emblem",
+      "publisher": "中国奥委会官网 · 北京娱乐信报",
+      "title": "揭开北京奥运会徽六个秘密 样本盖有“罗格之印”",
+      "date": "2003-08-04",
+      "url": "https://www.olympic.cn/news/photo_center/2003/0804/45050.html"
+    },
+    {
+      "id": "music1999embassy",
+      "publisher": "中国驻奥地利大使馆",
+      "title": "驻奥地利大使吴恳出席奥国家电视台“音乐家舞台”晚会",
+      "date": "2008-07-07",
+      "url": "https://at.china-embassy.gov.cn/lmbf/whsw/200807/t20080707_2364743.htm"
+    },
+    {
+      "id": "baihua2004",
+      "publisher": "中国文联网 · 转引新浪娱乐",
+      "title": "六百艺术家济济一堂 文联大联欢百花迎春",
+      "date": "2004-01-17（原报道）",
+      "url": "https://www.cflac.org.cn/zt/2004cjlh/2004-01/26/content_1541230.htm"
+    },
+    {
+      "id": "baihua2005",
+      "publisher": "北京晚报 · 新浪转载",
+      "title": "群星荟萃 百花迎春",
+      "date": "2005-02-11",
+      "url": "https://ent.sina.com.cn/x/2005-02-11/1720653309.html"
+    },
+    {
+      "id": "baihua2009",
+      "publisher": "中国艺术报 · 中国文艺网",
+      "title": "“百花迎春——中国文学艺术界2009春节大联欢”活动侧记",
+      "date": "2009-01-13",
+      "url": "https://www.cflac.org.cn/zt/2009-01/13/content_15441713.htm"
+    },
+    {
+      "id": "baihua2010",
+      "publisher": "中国文联网",
+      "title": "“百花迎春”演出现场",
+      "date": "2010-01-17",
+      "url": "https://www.cflac.org.cn/zt/2010-01/17/content_18788344.htm"
+    },
+    {
+      "id": "baihua2013",
+      "publisher": "中国文艺网",
+      "title": "“百花迎春”大联欢放飞中国梦",
+      "date": "2013-01-13",
+      "url": "https://www.cflac.org.cn/gn/201301/t20130113_164679.html"
+    },
+    {
+      "id": "baihua2016",
+      "publisher": "中国文艺网 · 主办方专题",
+      "title": "中国文学艺术界2016春节大联欢",
+      "date": "2016",
+      "url": "https://www.cflac.org.cn/wywzt/2016/2016bhyc/"
+    },
+    {
+      "id": "olympic2008countdown",
+      "publisher": "搜狐体育 · 现场报道",
+      "title": "周涛：开幕式除了浪漫还是浪漫 将接受世界检验",
+      "date": "2008-08-08",
+      "url": "https://2008.sohu.com/20080808/n258692153.shtml"
+    },
+    {
+      "id": "yushu2010followup",
+      "publisher": "新京报",
+      "title": "央视赈灾晚会筹款21.75亿",
+      "date": "2010-04-21",
+      "url": "https://m.bjnews.com.cn/detail/155143414314495.html"
+    },
+    {
+      "id": "r2-director2019",
+      "publisher": "中国艺术报 · 中国作家网转载",
+      "title": "每一次改变，都是为了心中的文艺梦——专访北京演艺集团首席演出官周涛",
+      "date": "2019-02-24",
+      "url": "https://www.chinawriter.com.cn/n1/2019/0224/c404005-30898898.html"
+    },
+    {
+      "id": "r2-buddhist2018plan",
+      "publisher": "福建省民族与宗教事务厅",
+      "title": "第五届世界佛教论坛开幕式启动仪式暨文艺演出策划方案对接会在北京举行（图）",
+      "date": "2018-05-26",
+      "url": "https://mzzjt.fujian.gov.cn/ztbd/fjlt/ltzyhd/201805/t20180527_3586300.htm"
+    },
+    {
+      "id": "r2-buddhist2018held",
+      "publisher": "湄洲日报 · 福建省民族与宗教事务厅转载",
+      "title": "10万+、评论溢出屏幕！网友热议第五届世界佛教论坛开幕！",
+      "date": "2018-10-30",
+      "url": "https://mzzjt.fujian.gov.cn/ztbd/fjlt/xwjj/201810/t20181030_4562081.htm"
+    },
+    {
+      "id": "r2-baihua2021self",
+      "publisher": "人民网",
+      "title": "文艺新时代⑩｜周涛：在“百花迎春”中礼赞时代",
+      "date": "2021-12-28",
+      "url": "https://ent.people.com.cn/n1/2021/1228/c1012-32318866.html"
+    },
+    {
+      "id": "r2-nfpeople2019",
+      "publisher": "南方人物周刊 · 南方周末平台",
+      "title": "周涛　放掉大家口中的央视当家花旦，我没那么痛",
+      "date": "2019-10-09",
+      "url": "https://www.infzm.com/contents/160489?source=124&source_1=160792"
+    },
+    {
+      "id": "r2-chairmanfilm2019cast",
+      "publisher": "1905电影网",
+      "title": "《决胜时刻》演职员表",
+      "date": "2019年影片资料（页面未标更新日期）",
+      "url": "https://m.1905.com/m/film/starlist/2248487.shtml"
+    },
+    {
+      "id": "r2-chairmanfilm2019date",
+      "publisher": "1905电影网",
+      "title": "《决胜时刻》详细资料",
+      "date": "2019年影片资料（页面未标更新日期）",
+      "url": "https://m.1905.com/m/film/info/2248487.shtml"
+    },
+    {
+      "id": "r2-ncpa2020",
+      "publisher": "北京晚报 · 人民网转载",
+      "title": "周涛带观众“云”游国家大剧院",
+      "date": "2020-05-03",
+      "url": "https://bj.people.com.cn/n2/2020/0503/c82846-33992919.html"
+    },
+    {
+      "id": "r2-ncpa2020official",
+      "publisher": "北京市人民政府 · 首都之窗",
+      "title": "大剧院“声如夏花”线上音乐会接棒“春天在线”",
+      "date": "2020-05-06",
+      "url": "https://www.beijing.gov.cn/renwen/sy/whkb/202005/t20200506_1890295.html"
+    },
+    {
+      "id": "r2-jd2020",
+      "publisher": "新华网官方账号 · 新浪",
+      "title": "[2020京东文学盛典国内文学专场直播]莫言：读书要趁早",
+      "date": "2020-10-19",
+      "url": "https://finance.sina.cn/2020-10-19/detail-iiznctkc6362721.d.html"
+    },
+    {
+      "id": "r2-jd2020official",
+      "publisher": "新华网",
+      "title": "2020京东文学盛典",
+      "date": "2020年专题（未标单一更新日）",
+      "url": "https://www.xinhuanet.com/book/jdwxsd/index.htm"
+    },
+    {
+      "id": "r2-wendao2020",
+      "publisher": "甘肃省文化和旅游厅 · 丝绸之路（敦煌）国际文化博览会官网",
+      "title": "大型新创舞剧《问道崆峒》献演“春绿陇原”",
+      "date": "2020-11-16",
+      "url": "https://www.gswbj.gov.cn/a/2020/11/16/6756.html"
+    },
+    {
+      "id": "r2-cflac2021",
+      "publisher": "中国文艺网 · 中国艺术报",
+      "title": "中国文学艺术界联合会第十一届全国委员会委员名单",
+      "date": "2021-12-17",
+      "url": "https://www.cflac.org.cn/new_zgwl/qw/202112/t20211217_576888.html"
+    },
+    {
+      "id": "r2-harbin2023self",
+      "publisher": "黑龙江新闻网官方账号 · 新浪",
+      "title": "周涛：希望留给观众一场好听又好看的音乐记忆",
+      "date": "2023-08-05",
+      "url": "https://k.sina.com.cn/article_2282314634_v88095b8a0200185k4.html"
+    },
+    {
+      "id": "r2-xibo2023date",
+      "publisher": "杭州新闻 · 杭州政协网转载",
+      "title": "2023世界休闲博览会暨杭州西湖国际博览会开幕",
+      "date": "2023-06-12",
+      "url": "https://www.hzzx.gov.cn/cshz/content/2023-06/12/content_8554561.htm"
+    },
+    {
+      "id": "r2-director2025review",
+      "publisher": "广州日报 · 川观新闻转载",
+      "title": "前央视主持人周涛，有新身份",
+      "date": "2025-04-09",
+      "url": "https://cbgc.scol.com.cn/news/6170640"
+    },
+    {
+      "id": "r2-security2025",
+      "publisher": "北京日报客户端 · 化境STUDIO",
+      "title": "重磅推出｜2025年全民国家安全教育日主题晚会",
+      "date": "2025-04-14",
+      "url": "https://xinwen.bjd.com.cn/content/s67fceaabe4b08edd28f79156.html"
+    },
+    {
+      "id": "r2-wangxizhi2026",
+      "publisher": "新华日报 · 交汇点新闻",
+      "title": "《王羲之》导演李东珅谈“书圣”：他毕生只写了一个“我”",
+      "date": "2026-05-23",
+      "url": "https://www.xhby.net/content/s6a118ddbe4b09dff347fcda1.html"
+    },
+    {
+      "id": "r2-wangxizhi2026play",
+      "publisher": "爱奇艺",
+      "title": "王羲之 从乌衣巷走向兰亭 第一集",
+      "date": "2026-05-18",
+      "url": "https://www.iqiyi.com/v_m05eqsp5po.html"
+    },
+    {
+      "id": "qingge2010-cctv",
+      "publisher": "央视网",
+      "title": "青歌赛圆满落幕 异彩纷呈",
+      "date": "2010-08-04",
+      "url": "https://1118.cctv.com/20100804/102841.shtml"
+    }
+  ],
+  "moments": [
+    {
+      "id": "2002-web-gala",
+      "year": "2002",
+      "date": "02.11",
+      "chapter": "explore",
+      "role": "电视与网络互动",
+      "title": "在春晚舞台与网络之间连接观众",
+      "text": "与王小丫、李咏参与 2002 年春晚的电视与网络互动。",
+      "detail": "央视网站大事记将三人列为这一届春晚电视、网络两种场景的主持人。它补充了常规春晚主持之外的一种工作方式。",
+      "reading": "与同年网络聊天室访谈并读，看看早期互联网如何改变主持人与观众的交流。",
+      "sources": [
+        "cctv-web-history"
+      ],
+      "note": "不用网页创建日期替代 2002-02-11 的事件日期。"
+    },
+    {
+      "id": "2005-zhenqing-end",
+      "year": "2005",
+      "date": "04",
+      "chapter": "explore",
+      "role": "制片与职业选择",
+      "title": "结束《真情无限》的制片与主持工作",
+      "text": "4 月底辞去《真情无限》制片人兼主持人的工作，为奥组委工作作出取舍。",
+      "detail": "她在 7 月 1 日的央视在线交流中亲自说明这个时间，也解释两份工作难以兼顾。这让已收录的赴奥组委经历有了更明确的前后关系。",
+      "reading": "把告别具体栏目与进入新的工作环境分开看，理解一次选择如何逐步落实。",
+      "sources": [
+        "chat2005-cctv",
+        "nanfang2005-olympic"
+      ],
+      "note": "本人在7月1日的在线交流中回顾4月底的离任；没有具体离任日。"
+    },
+    {
+      "id": "2011-fangge",
+      "year": "2011",
+      "date": "06.27",
+      "chapter": "explore",
+      "role": "专题节目主持",
+      "title": "《放歌九十年》：参与十集文艺专题片",
+      "text": "与朱军、董卿、张泽群共同主持《放歌九十年》，节目自 6 月 27 日起在央视综艺频道播出。",
+      "detail": "官网把四人的主持工作与马东主持的访谈环节分别介绍。这个节目可补充她在年度晚会之外的系列专题工作。",
+      "reading": "留意专题片怎样把音乐、历史材料与主持串联在一起。",
+      "sources": [
+        "fangge2011"
+      ],
+      "note": "官网现存系列资料页使用2016年路径，简介明确节目自2011年6月27日起播出。"
+    },
+    {
+      "id": "2013-program-planning",
+      "year": "2013",
+      "date": "11.18",
+      "chapter": "explore",
+      "role": "节目管理",
+      "title": "公开介绍央视下一年的节目规划",
+      "text": "央视报道记录她在黄金资源广告招标会上介绍 2014 年多项文艺节目安排。",
+      "detail": "从春晚、元宵晚会到心连心慰问演出，这份记录呈现她承担节目组织与规划工作的侧面。它与现有 2009 年管理岗位节点可以连起来阅读。",
+      "reading": "把镜头前的主持工作，与节目尚未登台时的统筹责任联系起来。",
+      "sources": [
+        "planning2013-cctv"
+      ],
+      "note": "11 月 18 日为报道日期；不凭该页推定具体任命日。原页职务中的机构名称存在两种写法，正文不自行统一。"
+    },
+    {
+      "id": "2015-film-sharing",
+      "year": "2015",
+      "date": "08.27",
+      "chapter": "explore",
+      "role": "节目嘉宾",
+      "title": "在《艺览天下》推荐喜欢的动物电影",
+      "text": "做客《艺览天下》，推荐《海豚的故事》和《金刚》。",
+      "detail": "官方简介将她的身份写作节目嘉宾。这是大型晚会之外，可以了解她怎样谈论作品的一份节目记录。",
+      "reading": "听她如何把电影故事转化为面向观众的介绍。",
+      "sources": [
+        "yilan2015-film"
+      ],
+      "note": "此条只证明这一期做客与推荐，不据此认定她是该栏目长期固定主持人。"
+    },
+    {
+      "id": "2016-reading",
+      "year": "2016",
+      "date": "02.12",
+      "chapter": "stage",
+      "role": "阅读分享",
+      "title": "《陪你读书》：分享《史记》",
+      "text": "在《陪你读书》的个人片段中推荐《史记》。",
+      "detail": "央视保存了名为《读书为伴 阅读一生》的正式视频片段，可与职业访谈一起观看。",
+      "reading": "从她谈一本书的方式，观察舞台主持之外的语言表达。",
+      "sources": [
+        "reading2016-cctv"
+      ],
+      "note": "日期采用官网页面标注；录制日期尚未核实。"
+    },
+    {
+      "id": "1997-silver",
+      "year": "1997",
+      "chapter": "screen",
+      "role": "专业荣誉",
+      "title": "第三届“金话筒”银奖",
+      "text": "获得第三届广播电视节目主持人“金话筒”银奖。",
+      "detail": "央视人物资料记录奖项届次，央视《焦点访谈》历届回顾将第三届对应到1997年。这里采用两份资料交叉对应的年份。",
+      "reading": "将早期节目片段与专业评奖放在一起，看她在全国舞台上的成长。",
+      "sources": [
+        "award",
+        "goldyear"
+      ],
+      "note": "年份为届次交叉对应；不推定具体颁奖日。"
+    },
+    {
+      "id": "1999-national",
+      "year": "1999",
+      "chapter": "screen",
+      "role": "庆典主持",
+      "title": "参与国庆五十周年天安门广场焰火晚会",
+      "text": "主持庆祝新中国成立50周年的天安门广场焰火晚会。",
+      "detail": "央视人物资料明确列出这项工作，2003年本人专访也回顾国庆50周年庆典经历。现有证据没有细分其镜头位置或串联范围。",
+      "reading": "大型庆典要求主持表达与整体流程保持一致，也能看到她栏目主持之外的工作。",
+      "sources": [
+        "award",
+        "starlight2003self"
+      ],
+      "note": "不写成上午阅兵解说；准确角色范围仍可继续补录原始节目。"
+    },
+    {
+      "id": "2002-hundred",
+      "year": "2002",
+      "date": "10.18",
+      "chapter": "explore",
+      "role": "专业荣誉",
+      "title": "获第三届中国百佳电视艺术工作者称号",
+      "text": "在宁波举行的颁奖活动中，获第三届中国百佳电视艺术工作者称号。",
+      "detail": "中国宁波网10月19日现场报道将颁奖记为前一日，并在名单中明确列出周涛。它与金话筒、金鹰奖是不同的表彰。",
+      "reading": "按原始奖项名称阅读，能避免把不同机构的荣誉混成一个排行榜。",
+      "sources": [
+        "hundred2002"
+      ]
+    },
+    {
+      "id": "2003-emblem",
+      "year": "2003",
+      "date": "08.03",
+      "chapter": "explore",
+      "role": "仪式主持",
+      "title": "参与北京奥运会会徽揭晓仪式",
+      "text": "担任北京奥运会会徽揭晓仪式主持，进入奥运相关大型活动的现场。",
+      "detail": "2003年央视本人专访和2005年央视采访回顾了这项经历；中国奥委会同期报道将会徽揭幕仪式确定为8月3日在天坛举行。",
+      "reading": "在正式借调奥组委之前，她已通过主持工作参与奥运筹备的重要节点。",
+      "sources": [
+        "starlight2003self",
+        "national2005self",
+        "olympic2003emblem"
+      ],
+      "note": "日期由同期活动报道对应；不与揭幕后的发布招待会主持身份混用。"
+    },
+    {
+      "id": "2003-starlight",
+      "year": "2003",
+      "date": "08.26",
+      "chapter": "explore",
+      "role": "专业荣誉",
+      "title": "第16届星光奖：优秀主持人",
+      "text": "凭2002年春节联欢晚会获得第16届电视文艺星光奖优秀主持人奖。",
+      "detail": "2003年8月26日的现场报道与次日获奖名单相互对应，央视随后刊出的本人专访也确认获奖。",
+      "reading": "分清“节目播出于2002年”和“2003年颁奖”，再回看相应春晚片段。",
+      "sources": [
+        "starlight2003self",
+        "starlight2003live",
+        "starlight2003list"
+      ],
+      "note": "采用正式名单的“优秀主持人奖”，不把个别报道的“最佳主持人”当作正式奖名。"
+    },
+    {
+      "id": "2003-eagle",
+      "year": "2003",
+      "date": "09",
+      "chapter": "explore",
+      "role": "专业荣誉",
+      "title": "第21届金鹰奖：电视节目主持人优秀奖",
+      "text": "获得第21届中国电视金鹰奖电视节目主持人优秀奖。",
+      "detail": "中国文联文艺资源中心保存的获奖报道明确区分：周涛为优秀奖获得者，最佳主持人奖为朱军。",
+      "reading": "将同年不同奖项各自列明，保留荣誉的准确名称与评选背景。",
+      "sources": [
+        "eagle2003"
+      ],
+      "note": "9月16日为评选结果公布日；本节点不把公布日直接等同于领奖日。"
+    },
+    {
+      "id": "2006-crosstalk",
+      "year": "2006",
+      "date": "10",
+      "chapter": "explore",
+      "role": "赛事主持与表演",
+      "title": "相声大赛：从主持到《学相声》",
+      "text": "主持第三届CCTV相声大赛，并在10月7日颁奖晚会与马季、毕福剑表演《学相声》。",
+      "detail": "同期京华时报和华西都市报均记录了主持人与马季同台说相声的环节；视频分别收录主持片段和该段表演。",
+      "reading": "对照主持与表演：同一个舞台上，接话、停顿和抖包袱承担不同任务。",
+      "sources": [
+        "crosstalk2006",
+        "crosstalk2006work"
+      ]
+    },
+    {
+      "id": "2008-wenchuan",
+      "year": "2008",
+      "date": "05.18",
+      "chapter": "explore",
+      "role": "公益晚会主持",
+      "title": "《爱的奉献》抗震救灾募捐活动",
+      "text": "与多位央视主持人共同主持《爱的奉献》2008抗震救灾大型募捐活动。",
+      "detail": "5月19日的现场报道记录了前一晚的央视直播，并明确提到周涛的主持工作。",
+      "reading": "在灾难报道与募捐现场，留意主持如何传达信息、照顾受访者感受并衔接流程。",
+      "sources": [
+        "wenchuan2008"
+      ]
+    },
+    {
+      "id": "2009-national-concert",
+      "year": "2009",
+      "date": "08.02",
+      "chapter": "explore",
+      "role": "音乐会主持",
+      "title": "在国家大剧院主持“我和我的祖国”",
+      "text": "与赵忠祥共同主持庆祝新中国成立60周年著名艺术家演唱会。",
+      "detail": "中国文艺网的现场报道明确演出时间为8月2日、地点为国家大剧院，活动由中国文联主办。",
+      "reading": "从大型广场庆典到剧院音乐会，观察主持怎样随空间与节目结构调整。",
+      "sources": [
+        "concert2009national"
+      ],
+      "note": "此为“我和我的祖国”演唱会，不与央视《祖国万岁》或10月1日天安门活动混写。"
+    },
+    {
+      "id": "2010-yushu",
+      "year": "2010",
+      "date": "04.20",
+      "chapter": "explore",
+      "role": "公益晚会主持",
+      "title": "《情系玉树 大爱无疆》",
+      "text": "参与《情系玉树 大爱无疆》抗震救灾大型募捐活动的现场主持。",
+      "detail": "中国广播网的直播预告列出周涛等现场主持人，广电总局次日记录确认活动已举行。",
+      "reading": "把这场活动与1998年抗洪、2008年汶川赈灾资料连起来看，理解她公益主持工作的延续。",
+      "sources": [
+        "yushu2010hosts",
+        "yushu2010held"
+      ]
+    },
+    {
+      "id": "2014-riddle",
+      "year": "2014",
+      "date": "02.11",
+      "chapter": "explore",
+      "role": "文化节目主持",
+      "title": "《中国谜语大会》，与观众一起猜谜",
+      "text": "与撒贝宁共同主持首届《中国谜语大会》，把灯谜竞猜带入电视直播。",
+      "detail": "节目首季于2月11日至13日播出。视频索引同时收录2015、2016年续季的完整节目入口，分别说明内容日期。",
+      "reading": "留意她如何解释规则、接住学生的回答，并在竞赛节奏中保持亲切交流。",
+      "sources": [
+        "riddle2014hosts",
+        "riddle2014episodes"
+      ]
+    },
+    {
+      "id": "2014-crosstalk",
+      "year": "2014",
+      "date": "10",
+      "chapter": "explore",
+      "role": "赛事主持",
+      "title": "主持第七届全国电视相声大赛",
+      "text": "与李伟健共同主持第七届全国电视相声大赛。",
+      "detail": "同期报道确认两人的主持搭档关系；央视专题保存10月8日至13日各场比赛与总决赛入口。",
+      "reading": "与2006年的比赛片段对照，观察主持如何为演员留出表达空间。",
+      "sources": [
+        "crosstalk2014hosts",
+        "crosstalk2014official"
+      ]
+    },
+    {
+      "id": "2018-buddhist-forum",
+      "year": "2018",
+      "date": "10.29",
+      "chapter": "stage",
+      "role": "总导演与主持",
+      "title": "第五届世界佛教论坛：从方案到现场",
+      "text": "担任开幕式暨文艺演出总导演，并与胡一虎共同主持。",
+      "detail": "福建省民宗厅保留了5月方案汇报和10月开幕现场记录；2019年中国艺术报本人专访再次确认总导演工作。",
+      "reading": "把策划阶段与完成演出相连，理解大型活动背后的创作周期。",
+      "sources": [
+        "r2-buddhist2018plan",
+        "r2-buddhist2018held",
+        "r2-director2019"
+      ]
+    },
+    {
+      "id": "2019-baihua-director",
+      "year": "2019",
+      "chapter": "stage",
+      "role": "晚会总导演",
+      "title": "《百花迎春》：开始承担整台晚会的创作",
+      "text": "与王荣起共同执导2019年“百花迎春”，此后连续三年担任这台大联欢的总导演。",
+      "detail": "2019年本人专访讲述共同执导的过程；2021年人民网访谈明确回顾了2019—2021年的连续三届工作。",
+      "reading": "从主持单个环节，看到她如何处理整台节目的主题、艺术形式与观众交流。",
+      "sources": [
+        "r2-director2019",
+        "r2-baihua2021self"
+      ],
+      "note": "2019年与王荣起共同执导。下列2004—2016年的同名晚会影像用于回看早期主持与表演，不作为导演年份的证据。"
+    },
+    {
+      "id": "2019-chairman-film",
+      "year": "2019",
+      "date": "09.20",
+      "chapter": "stage",
+      "role": "电影表演",
+      "title": "在电影《决胜时刻》中饰演宋美龄",
+      "text": "出演历史题材电影《决胜时刻》，银幕角色为宋美龄。",
+      "detail": "1905电影网的演职员表确认角色，影片资料页记录2019年9月20日在中国大陆上映。",
+      "reading": "把舞台表演与电影中的角色塑造并看，认识她在不同媒介中的尝试。",
+      "sources": [
+        "r2-chairmanfilm2019cast",
+        "r2-chairmanfilm2019date"
+      ],
+      "note": "上映日期不等于拍摄日期；不将片中其他演员的角色或奖项归到她名下。"
+    },
+    {
+      "id": "2020-ncpa-guide",
+      "year": "2020",
+      "date": "05.02",
+      "chapter": "stage",
+      "role": "音乐会导赏",
+      "title": "《春天的拥抱》：带观众云游国家大剧院",
+      "text": "作为特邀导赏嘉宾参与“春天在线”第四场音乐会，带观众线上游览国家大剧院。",
+      "detail": "5月2日晚，吕嘉与国家大剧院管弦乐团带来音乐会；周涛在演出前后承担导赏与交流。",
+      "reading": "留意她如何用日常语言连接音乐作品、剧院空间与屏幕前的观众。",
+      "sources": [
+        "r2-ncpa2020",
+        "r2-ncpa2020official"
+      ]
+    },
+    {
+      "id": "2020-jd-reading",
+      "year": "2020",
+      "date": "10.16",
+      "chapter": "stage",
+      "role": "阅读推广",
+      "title": "在文学品鉴直播中，谈自己的阅读",
+      "text": "作为京东文学盛典“国内之光”嘉宾，与作家和学者共同荐书、讨论阅读。",
+      "detail": "新华网记录了10月16日的直播，周涛参与国内文学作品品鉴，也谈阅读习惯。这一场与10月31日的盛典之夜分别记录。",
+      "reading": "让人物档案保留她作为读者的表达，观看荐书理由与讨论方式。",
+      "sources": [
+        "r2-jd2020",
+        "r2-jd2020official"
+      ]
+    },
+    {
+      "id": "2020-wendao-kongtong",
+      "year": "2020",
+      "date": "11.14",
+      "chapter": "stage",
+      "role": "舞剧总导演",
+      "title": "《问道崆峒》：参与舞剧的整体创作",
+      "text": "担任舞剧《问道崆峒》总导演，作品在兰州黄河剧院完成审演。",
+      "detail": "甘肃省文旅厅的当日报道确认她的身份、主创团队及11月14日的演出。项目结合舞蹈、音乐与舞台空间，呈现地方文化题材。",
+      "reading": "把晚会导演与叙事舞剧相比较，观察创作对象与组织方式的变化。",
+      "sources": [
+        "r2-wendao2020"
+      ],
+      "note": "报道中的国家大剧院首演及巡演仍属后续计划，本节点不把计划写成已完成事实。"
+    },
+    {
+      "id": "2021-cflac",
+      "year": "2021",
+      "date": "12.16",
+      "chapter": "continue",
+      "role": "行业组织任职",
+      "title": "当选中国文联第十一届全国委员会委员",
+      "text": "进入2021年12月16日选举产生的中国文联第十一届全国委员会委员名单。",
+      "detail": "中国文艺网公布正式名单；同月人民网人物专访以该身份介绍周涛。这里记录的是当届任职事实。",
+      "reading": "将行业公共工作与具体节目创作一同放进职业轨迹。",
+      "sources": [
+        "r2-cflac2021",
+        "r2-baihua2021self"
+      ],
+      "note": "这是行业组织职务，不是专业作品获奖；不外推为2026年的最新届次或职务。"
+    },
+    {
+      "id": "2022-poly-chair",
+      "year": "2022",
+      "date": "11.26",
+      "chapter": "continue",
+      "role": "演出机构管理",
+      "title": "官方项目报道记录保利演出董事长身份",
+      "text": "保利文化在安徽系列活动总结中，将周涛介绍为艺术总监、保利演出董事长。",
+      "detail": "这份2022年11月26日的公司报道为当时的管理职务提供直接证据，也体现她同时承担项目总导演的工作。",
+      "reading": "区分集团艺术总监、子公司董事长和具体项目总导演，理解并行的职责。",
+      "sources": [
+        "anhui2022"
+      ],
+      "note": "日期是职务已见于官方报道的时间，不是任命日；不写成保利文化集团董事长，也不直接称现任。"
+    },
+    {
+      "id": "2023-xibo",
+      "year": "2023",
+      "date": "06.11",
+      "chapter": "continue",
+      "role": "大型活动",
+      "title": "参与杭州休博会与西博会开幕式",
+      "text": "参与“人间天堂·直播之夜”开幕式，留下完整主持片段。",
+      "detail": "杭州官方报道确认6月11日开幕。广州日报2025年的职业回顾另记载她担任此届开幕式总导演，可作为幕后工作补充线索。",
+      "reading": "结合主持片段，观察城市文化主题如何进入一场综合晚会。",
+      "sources": [
+        "r2-xibo2023date",
+        "r2-director2025review"
+      ],
+      "note": "总导演身份目前采用事后媒体回顾；优先补充当年主办方演职员表后，再将总导演作为标题主项。"
+    },
+    {
+      "id": "2023-harbin-director",
+      "year": "2023",
+      "date": "08.06",
+      "chapter": "continue",
+      "role": "音乐会总导演",
+      "title": "第一次以总导演身份参与“哈夏”开幕式",
+      "text": "担任第36届中国哈尔滨之夏音乐会开幕式总导演。",
+      "detail": "第36届中国哈尔滨之夏音乐会于2023年8月6日开幕。前一日的现场采访中，周涛说明自己此前曾多次主持“哈夏”，这一次首次担任该项目总导演，并谈到听觉与视觉呈现的配合。",
+      "reading": "与2025年第37届项目连读，看到一次合作如何延续。",
+      "sources": [
+        "r2-harbin2023self",
+        "r4-harbin2023-opening"
+      ],
+      "note": "8月5日为现场采访日，8月6日为正式开幕日。少数后来转载将第36届误记为2024年，未采用。"
+    },
+    {
+      "id": "2025-security-worth",
+      "year": "2025",
+      "date": "04.15",
+      "chapter": "continue",
+      "role": "情景讲述",
+      "title": "在国家安全教育日主题晚会表演《值得》",
+      "text": "与郭凯敏共同表演情景讲述《值得》。",
+      "detail": "北京日报客户端公布的节目单明确两位表演者，晚会安排于4月15日晚在北京卫视首播。",
+      "reading": "关注讲述式表演如何通过声音和人物关系表达公共主题。",
+      "sources": [
+        "r2-security2025"
+      ],
+      "note": "4月15日是公布的电视首播日；报道仅称近日录制，不推定现场录制日期。"
+    },
+    {
+      "id": "2026-wangxizhi",
+      "year": "2026",
+      "date": "05.18",
+      "chapter": "continue",
+      "role": "纪录片配音",
+      "title": "为纪录片《王羲之》配音",
+      "text": "为《王羲之——从乌衣巷走向兰亭》担任配音，继续参与历史文化纪录片创作。",
+      "detail": "新华日报·交汇点对制片人、总导演李东珅的采访明确记载周涛配音，以及5月18日上线。",
+      "reading": "与《中国》系列并听，留意群像历史与单个人物传记对叙述语气的不同要求。",
+      "sources": [
+        "r2-wangxizhi2026",
+        "r2-wangxizhi2026play"
+      ]
+    },
+    {
+      "id": "2009-jianghu",
+      "year": "2009",
+      "date": "01.20",
+      "chapter": "explore",
+      "role": "职业访谈",
+      "title": "《春晚江湖》：说说主持人的台前幕后",
+      "text": "与朱军做客央视网《春晚江湖》，谈除夕直播中的准备、配合与压力。",
+      "detail": "1月22日的同期报道把访谈时间写为1月20日下午3点。长视频与文字记录可以对照阅读，看她怎样回忆主持工作中的临场选择。",
+      "reading": "把这场访谈和正式春晚片段相互参照，理解几十秒串联背后的准备。",
+      "sources": [
+        "gala-jianghu2009-sina",
+        "gala-jianghu2009-news"
+      ]
+    },
+    {
+      "id": "2010-qingge",
+      "year": "2010",
+      "chapter": "explore",
+      "role": "赛事节目主持",
+      "title": "参与青年歌手电视大奖赛的主持",
+      "text": "在第十四届青年歌手电视大奖赛中，与多位央视主持人共同承担主持工作。",
+      "detail": "央视2010年8月的赛事回顾将周涛列入本届主持团队。论坛保存的2013年纪录片截图帖，还提供了继续了解这项赛事幕后工作的线索。",
+      "reading": "把赛事主持、节目组织与赛后回顾放在一起看，认识同一节目里的不同职责。",
+      "sources": [
+        "qingge2010-cctv"
+      ],
+      "note": "此处确认2010年主持工作；不据论坛概述直接推定其他届次的制片人任命。"
+    },
+    {
+      "id": "2005-cctv-host-honor",
+      "year": "2005",
+      "chapter": "explore",
+      "role": "台内专业荣誉",
+      "title": "获央视2004年度优秀播音员主持人荣誉",
+      "text": "央视2005年的在线交流介绍明确记载，她获得了中央电视台2004年度优秀播音员主持人荣誉。",
+      "detail": "官网在介绍当年的五四奖章与奥组委工作时，同时列出这项年度专业表彰。这里区分所评价的2004年度与2005年公布记录。",
+      "reading": "将台内年度表彰与全国性评奖分别阅读，了解不同层面的专业肯定。",
+      "sources": [
+        "chat2005-cctv"
+      ],
+      "note": "按2005年官方页面的“今年获得”归档；评价年度是2004年，具体授奖日期未核。"
+    }
+  ],
+  "readings": [
+    {
+      "source": "chat2003-cctv",
+      "year": "2003",
+      "title": "第一次在春晚演《马路情歌》之后",
+      "tag": "在线访谈实录",
+      "description": "在 2 月 11 日的在线交流中，她谈与冯巩合作及春晚主持。保留节目刚结束时的第一人称回应。",
+      "momentId": "1996",
+      "dateNote": "网页发布晚于在线交流；仅已核原站索引中的开篇与部分问答，全部分页尚未读到。"
+    },
+    {
+      "source": "host-ecology2005",
+      "year": "2005",
+      "title": "《电视你我他》：新闻播音怎样转向综艺主持",
+      "tag": "节目访谈文稿",
+      "description": "周涛与朱军、导演刘铁民的谈话，留下《综艺大观》选聘和主持转型的具体回忆。可与既有《幕后》人物文章交叉阅读。",
+      "momentId": "1995",
+      "dateNote": "节目实际录制和播出日期未核，不将网页日期直接等同播出日期。"
+    },
+    {
+      "source": "nanfang2005-olympic",
+      "year": "2005",
+      "title": "面对奥组委的新工作，她看重什么",
+      "tag": "本人长访谈",
+      "description": "师欣的问答围绕综合处职责、与奥组委接触的过程及职业取舍展开。她也谈到制片和大型活动导演经验如何帮助自己进入新的工作。",
+      "momentId": "2005",
+      "dateNote": "采用央视转载页日期，原报刊期日及采访日未知。"
+    },
+    {
+      "source": "chat2005-cctv",
+      "year": "2005",
+      "title": "亲自解释离开《真情无限》的时间与原因",
+      "tag": "在线访谈实录",
+      "description": "她明确谈到 4 月底结束制片和主持工作，也解释主持人与制片人承担责任的区别。这是理解 2005 年职业转折的一份直接材料。",
+      "momentId": "2005-zhenqing-end",
+      "dateNote": "页面日期 7 月 2 日，在线交流 7 月 1 日，以正文日期为准。"
+    },
+    {
+      "source": "planning2013-cctv",
+      "year": "2013",
+      "title": "从节目规划中，看见台前之外的工作",
+      "tag": "本人公开发言",
+      "description": "她在央视广告招标会上介绍下一年度的文艺节目安排。这份同时期记录补充了管理工作侧面，文中的计划应放在当时语境中阅读。",
+      "momentId": "2013-program-planning",
+      "dateNote": "是公开发言记录，不是记者与她的一对一访谈。"
+    },
+    {
+      "source": "gala-jianghu2009-sina",
+      "year": "2009",
+      "title": "《春晚江湖》访谈的同时期文字记录",
+      "tag": "节目访谈报道",
+      "description": "从倒计时前的临场控时，到多位主持人的配合，这份节目报道记录了春晚台前工作的具体难处。可作为长访谈视频的配套阅读。",
+      "momentId": "2009-jianghu",
+      "dateNote": "这是同期节目报道，并非整段访谈的逐字稿。"
+    },
+    {
+      "source": "r2-director2019",
+      "year": "2019",
+      "title": "每一次改变，都是为了心中的文艺梦",
+      "tag": "本人长访谈",
+      "description": "从百花迎春的共同执导谈到离开央视、舞台剧和公益节目，具体解释从台前走向创作的选择。",
+      "momentId": "2019-baihua-director"
+    },
+    {
+      "source": "r2-nfpeople2019",
+      "year": "2019",
+      "title": "从口述中回看自己的职业路径",
+      "tag": "人物口述",
+      "description": "《南方人物周刊》2019年第28期的口述整理稿。公开导言对照台前主持与幕后创作，适合接在职业转身一章后读。",
+      "momentId": "2017",
+      "dateNote": "口述：周涛；整理：张明萌、邹露。南周平台发表于2019年10月9日；本次仅核公开导言，后文需在原站登录阅读。"
+    },
+    {
+      "source": "r2-baihua2021self",
+      "year": "2021",
+      "title": "在《百花迎春》中谈创作热情",
+      "tag": "本人专访",
+      "description": "回顾连续三年的导演工作，也谈不同艺术门类与新媒体给主持工作带来的经验。",
+      "momentId": "2019-baihua-director"
+    },
+    {
+      "source": "r2-harbin2023self",
+      "year": "2023",
+      "title": "一场音乐会，如何做到好听又好看",
+      "tag": "导演现场采访",
+      "description": "围绕第36届哈夏开幕式，谈节目选择与声音、灯光、视频的配合。",
+      "momentId": "2023-harbin-director"
+    },
+    {
+      "source": "r2-jd2020",
+      "year": "2020",
+      "title": "作为读者，与作家一起谈阅读",
+      "tag": "阅读交流",
+      "description": "记录国内之光直播中多位嘉宾的荐书与讨论，包含周涛关于阅读习惯及作品的表达。",
+      "momentId": "2020-jd-reading"
+    }
+  ],
+  "honors": [
+    {
+      "id": "spring-swallow-1994",
+      "year": 1994,
+      "title": "北京市电视艺术家协会“春燕杯”最佳节目主持人奖",
+      "sources": [
+        "award"
+      ],
+      "note": "央视人物资料记录于1994年获得；尚无可靠的届次与具体颁奖日资料。",
+      "momentId": "1994"
+    },
+    {
+      "id": "silver-mic-1997",
+      "year": 1997,
+      "title": "第三届广播电视节目主持人“金话筒”银奖",
+      "sources": [
+        "award",
+        "goldyear"
+      ],
+      "note": "央视人物资料确认第三届银奖；1997年由央视历届回顾交叉对应。",
+      "momentId": "1997-silver"
+    },
+    {
+      "id": "gold-mic-1999",
+      "year": 1999,
+      "title": "第四届“金话筒”金奖",
+      "sources": [
+        "gold1999",
+        "goldyear"
+      ],
+      "note": "央视保存的第四届获奖名单列出周涛，类别为电视金奖。",
+      "momentId": "1999-gold"
+    },
+    {
+      "id": "golden-crown-1999",
+      "year": 1999,
+      "title": "“金皇冠”最佳主持人奖",
+      "sources": [
+        "award",
+        "many"
+      ],
+      "note": "沿用央视人物资料及2016年回顾中的中文奖名；原颁奖机构的外文档案尚待补充。",
+      "momentId": "1999"
+    },
+    {
+      "id": "hundred-tv-2002",
+      "year": 2002,
+      "title": "第三届中国百佳电视艺术工作者",
+      "sources": [
+        "hundred2002"
+      ],
+      "note": "2002年10月18日在宁波颁奖，同期报道列出周涛的名字。",
+      "momentId": "2002-hundred"
+    },
+    {
+      "id": "starlight-2003",
+      "year": 2003,
+      "title": "第16届中国电视文艺星光奖优秀主持人奖",
+      "sources": [
+        "starlight2003self",
+        "starlight2003live",
+        "starlight2003list"
+      ],
+      "note": "2003年8月26日颁奖，参评节目为2002年春晚。同期名单与本人专访相互印证。",
+      "momentId": "2003-starlight",
+      "work": "2002年春节联欢晚会"
+    },
+    {
+      "id": "golden-eagle-2003",
+      "year": 2003,
+      "title": "第21届中国电视金鹰奖电视节目主持人优秀奖",
+      "sources": [
+        "eagle2003"
+      ],
+      "note": "2003年9月16日公布评选结果，所获类别为电视节目主持人优秀奖。",
+      "momentId": "2003-eagle"
+    },
+    {
+      "id": "youth-medal-2005",
+      "year": 2005,
+      "title": "第九届中国青年五四奖章",
+      "sources": [
+        "national2005self"
+      ],
+      "note": "央视2005年5月的本人专访明确奖章届次；采访发布日期不作为授奖日。",
+      "momentId": "2005-youth"
+    },
+    {
+      "id": "cctv-host-2004",
+      "year": 2005,
+      "title": "中央电视台2004年度优秀播音员主持人",
+      "sources": [
+        "chat2005-cctv"
+      ],
+      "note": "2005年央视官方介绍记载获此荣誉；“2004年度”为评价周期，具体授奖日未核。",
+      "momentId": "2005-cctv-host-honor"
+    }
+  ]
+}

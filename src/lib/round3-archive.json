@@ -1,0 +1,96 @@
+{
+  "sources": [
+    {
+      "id": "chengdu2017-report",
+      "publisher": "华西都市报／封面新闻 · 新浪转载",
+      "title": "离开央视半年多周涛开讲：梦想比知名度重要",
+      "date": "2017-06-26",
+      "url": "https://ent.sina.cn/zy/2017-06-26/detail-ifyhmtek7787102.d.html",
+      "evidence": "全文已读。荀超、杨小涵现场报道明确写6月24日下午3点，讲座内容包括定位、规划生活、工作意义与兴趣以及离开央视后的转型。",
+      "scopeLimit": "它是现场报道和节选引语，不是逐字演讲实录。"
+    },
+    {
+      "id": "chengdu2017-notice",
+      "publisher": "四川教育新闻网／四川教育在线",
+      "title": "著名主持人周涛将于6.24来成都开展语言艺术讲座",
+      "date": "2017-06-19",
+      "url": "https://www.scjyxw.com/zt_xzjs/jdh/20170619/1000010000047564.html",
+      "evidence": "搜索索引可读活动预告：2017年6月24日周六15:00—17:00，经典汇·艺术剧场；与同期现场报道交叉吻合。",
+      "scopeLimit": "原页直接抓取有字符解码错误。页面附带履历存在错年、奖项届次错误，因此只用活动日期、地点与预告信息。"
+    },
+    {
+      "id": "olympic2008-pishu",
+      "publisher": "社会科学文献出版社 · 皮书数据库",
+      "title": "《深圳市民文化大讲堂（上、下册）》2008年度讲座集书目",
+      "date": "2012-07",
+      "url": "https://www.pishu.com.cn/skwx_ps/bookdetail?ID=3067910&SiteID=14",
+      "evidence": "书目英文名明确指2008年度；摘要列周涛为2008年讲座主讲嘉宾之一；ISBN 978-7-5097-3448-3。",
+      "scopeLimit": "本轮查上下册公开目录，未见周涛《亲历奥运》讲稿。不能据此声称已找到讲稿，也不能独立证明9月28日。",
+      "relatedUrl": "https://www.pishu.com.cn/skwx_ps/bookdetail?ID=3070442&SiteID=14",
+      "localEvidence": "work/round3-metadata/pishu3070442.html"
+    },
+    {
+      "id": "tom-fan-index",
+      "publisher": "民间资料索引「周涛 · 访谈」",
+      "title": "周涛 · 访谈：TOM访谈条目",
+      "date": "页面未注明",
+      "url": "https://qt0504.github.io/zhoutao/",
+      "evidence": "该索引标注TOM访谈为2005，并链接BV1bs411Q7Xh；与本轮用户提供的年份线索相符。",
+      "scopeLimit": "非原节目发布记录，不能当作2005年录制或播出的独立确认。"
+    },
+    {
+      "id": "tom-program-background",
+      "publisher": "北京晨报 · 新浪转载",
+      "title": "TOM正式推出《TOM访谈》",
+      "date": "2003-09-01",
+      "url": "https://tech.sina.com.cn/me/2003-09-01/0804227580.shtml",
+      "evidence": "当年节目介绍说明《TOM访谈》为工作日下午固定的一小时音视频直播节目，林白监制并主持。",
+      "scopeLimit": "仅用于栏目背景，不证明周涛这一期的嘉宾主持或录播日期。"
+    }
+  ],
+  "moments": [
+    {
+      "id": "2008-olympic-lecture",
+      "year": "2008",
+      "date": "09.28",
+      "chapter": "explore",
+      "role": "奥运工作亲历者",
+      "title": "《亲历奥运》：赛会之后的一次长谈",
+      "text": "在深圳的讲座录像中，回顾奥运相关工作。",
+      "detail": "出版社2008年度深圳市民文化大讲堂讲座集的书目摘要列有周涛。现存长版录像题名标注9月28日，简介记载地点为深圳图书馆五楼报告厅；影像档案保留65分钟版本及67分钟备选入口。",
+      "reading": "将现场回忆与奥组委工作、开幕式解说的同期记录并读。",
+      "sources": [
+        "olympic2008-pishu"
+      ],
+      "note": "09.28与场地据个人上传标题及简介；年份有出版书目交叉支持，具体日程尚未独立核到。"
+    },
+    {
+      "id": "2017-chengdu-talk",
+      "year": "2017",
+      "date": "06.24",
+      "chapter": "stage",
+      "role": "讲者",
+      "title": "成都讲座：遇见更好的自己",
+      "text": "在经典汇艺术剧场，从工作与生活出发，谈认识自己与人生选择。",
+      "detail": "讲座预告和现场记者报道共同确认活动发生于2017年6月24日15时。离开央视后的这一阶段，她在讲座中谈定位、工作意义和兴趣，也回望了演出创作的新尝试。",
+      "reading": "先看2016年转岗与2017年音乐季，再完整听她如何解释这些选择。",
+      "sources": [
+        "chengdu2017-notice",
+        "chengdu2017-report"
+      ],
+      "note": "活动日期采用同期预告和现场报道；个别转载视频简介中的6月25日是误记。所选版本的上传时间另列于影像说明。",
+      "featured": true
+    }
+  ],
+  "readings": [
+    {
+      "source": "chengdu2017-report",
+      "year": "2017",
+      "title": "成都讲座现场：重新理解职业选择",
+      "tag": "演讲现场报道",
+      "description": "现场记者记录她对自我定位、生活规划、工作意义与兴趣的理解，也谈到离开央视后的创作尝试。可搭配讲座长版观看。",
+      "momentId": "2017-chengdu-talk",
+      "dateNote": "报道发表于2017-06-26，活动发生于2017-06-24；它不是演讲逐字稿。"
+    }
+  ]
+}
